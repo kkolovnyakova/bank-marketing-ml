@@ -1,0 +1,3 @@
+﻿model,best_params,best_cv_roc_auc
+LogisticRegression_L2,"{""model__C"": 100}",0.53214107045034
+GaussianNB,"{""model__var_smoothing"": 1e-08}",0.525345814919765
